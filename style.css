@@ -47,6 +47,11 @@ a:hover {
     text-decoration: underline;
 }
 
+header a {
+    color: white;      /* cor que você quiser para o email */
+    text-decoration: none; /* remove o sublinhado */
+}
+
 footer {
     text-align: center;
     padding: 10px;
